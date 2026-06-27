@@ -1,0 +1,7 @@
+2026-06-24 10:01:12 - INFO - User admin logged in successfully from 192.168.1.10
+2026-06-24 10:02:45 - WARNING - Failed login attempt for user root from 192.168.1.50
+2026-06-24 10:02:47 - WARNING - Failed login attempt for user root from 192.168.1.50
+2026-06-24 10:02:49 - WARNING - Failed login attempt for user root from 192.168.1.50
+2026-06-24 10:05:00 - INFO - User marija logged in successfully from 192.168.1.12
+2026-06-24 10:06:11 - WARNING -Failed login attempt for user backup from 192.168.1.50
+
